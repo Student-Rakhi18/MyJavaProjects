@@ -1,4 +1,4 @@
-package gitawt.awt;
+package AWT;
 
 public class UseFrame6
 {
